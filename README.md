@@ -6,8 +6,7 @@ Paddle 复现版本
 
 分类之后训练集用于训练SR模块
 https://aistudio.baidu.com/aistudio/datasetdetail/106261
-## aistudio
-脚本任务地址: https://aistudio.baidu.com/aistudio/clusterprojectdetail/2356381
+
 ## 训练模型
 
 链接：https://pan.baidu.com/s/1SwjPpF-SzoP_GhLqdAHwag?pwd=1234 
@@ -35,8 +34,7 @@ Paddle 复现版本
 
 分类之后训练集用于训练SR模块
 https://aistudio.baidu.com/aistudio/datasetdetail/106261
-## aistudio
-脚本任务地址: https://aistudio.baidu.com/aistudio/clusterprojectdetail/2356381
+
 ## 训练模型
 链接：https://pan.baidu.com/s/1SwjPpF-SzoP_GhLqdAHwag?pwd=1234 
 提取码：1234 
