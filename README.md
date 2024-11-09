@@ -1,4 +1,4 @@
-  # EDSR_paddle
+# EDSR_paddle
 Enhanced Deep Residual Networks for Single Image Super-Resolution    Paddle 复现版本
 
 
@@ -32,12 +32,15 @@ python test.py -opt config/test/test_EDSR_x4.yml
 
   # RRDBNet_paddle
 
-Paddle 复现版本
+ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks     Paddle 复现版本
 
+https://paperswithcode.com/paper/esrgan-enhanced-super-resolution-generative
 ## 数据集
 
-分类之后训练集用于训练SR模块
-https://aistudio.baidu.com/aistudio/datasetdetail/106261
+DIV2K
+https://data.vision.ee.ethz.ch/cvl/DIV2K/
+Set5
+https://drive.google.com/drive/folders/1pRmhEmmY-tPF7uH8DuVthfHoApZWJ1QU
 
 ## 训练模型
 链接：https://pan.baidu.com/s/1SwjPpF-SzoP_GhLqdAHwag?pwd=1234 
