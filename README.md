@@ -1,11 +1,15 @@
   # EDSR_paddle
+Enhanced Deep Residual Networks for Single Image Super-Resolution    Paddle 复现版本
 
-Paddle 复现版本
 
+https://paperswithcode.com/paper/enhanced-deep-residual-networks-for-single
 ## 数据集
 
-分类之后训练集用于训练SR模块
-https://aistudio.baidu.com/aistudio/datasetdetail/106261
+DIV2K
+https://data.vision.ee.ethz.ch/cvl/DIV2K/
+Set5
+https://drive.google.com/drive/folders/1pRmhEmmY-tPF7uH8DuVthfHoApZWJ1QU
+
 
 ## 训练模型
 
